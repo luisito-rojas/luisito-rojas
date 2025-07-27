@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola, soy Luis Armando Rojas!</h1>
+<h1 align="center">👋 ¡Hola, soy Luis Rojas!</h1>
 
 <p align="center">
 🎓 Ingeniero en Sistemas Computacionales apasionado por el desarrollo backend, la seguridad web y la creación de soluciones útiles con tecnologías modernas.
