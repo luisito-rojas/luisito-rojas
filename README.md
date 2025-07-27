@@ -57,10 +57,13 @@
 
 | Curso / Certificación                                     | Plataforma / Institución        | Año       |
 |-----------------------------------------------------------|----------------------------------|-----------|
-| ✅ Programa Oracle Next Education F2 T4 Back-end          | Alura LATAM (ORACLE)            | 2024 |
-| ✅ Python Essentials                                       | Cisco Networking Academy (NetAcad) | 2024 |
+| ✅Introduccion a la Ciberseguridad                        | Cisco Networking Academy (NetAcad) | 2020 |
+| ✅CCNA Routing and Switching: Introducción a redes        | Cisco Networking Academy (NetAcad) | 2020 |
+| ✅CCNAv7: Redes empresariales, Seguridad y Automatización | Cisco Networking Academy (NetAcad) | 2023 |
 | ✅ Introducción al Desarrollo Web                         | Google / Coursera               | 2023      |
 | ✅ Fundamentos de Java                                     | Oracle Academy                  | 2023      |
+| ✅ Programa Oracle Next Education F2 T4 Back-end          | Alura LATAM (ORACLE)            | 2024 |
+| ✅ Python Essentials                                       | Cisco Networking Academy (NetAcad) | 2024 |
 | ✅ Seguridad Informática Básica                            | Cisco Networking Academy        | 2024      |
 
 ---
