@@ -57,6 +57,7 @@
 
 | Curso / Certificación                                     | Plataforma / Institución        | Año       |
 |-----------------------------------------------------------|----------------------------------|-----------|
+| ✅ Programa Oracle Next Education F2 T4 Back-end          | Alura LATAM (ORACLE)            | 2024 |
 | ✅ Python Essentials                                       | Cisco Networking Academy (NetAcad) | 2024 |
 | ✅ Introducción al Desarrollo Web                         | Google / Coursera               | 2023      |
 | ✅ Fundamentos de Java                                     | Oracle Academy                  | 2023      |
