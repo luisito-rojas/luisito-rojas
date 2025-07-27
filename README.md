@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/Java-Backend-blue?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/QA%20Testing-JUnit-green?style=for-the-badge&logo=testing-library&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PDF-Export-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </p>
 
 ---
