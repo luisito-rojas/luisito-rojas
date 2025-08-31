@@ -64,6 +64,7 @@
 | ✅ Programa Oracle Next Education F2 T4 Back-end          | Alura LATAM (ORACLE)            | 2024 |
 | ✅ Python Essentials                                       | Cisco Networking Academy (NetAcad) | 2024 |
 | ✅ Seguridad Informática Básica                            | Cisco Networking Academy        | 2024      |
+| ✅ Curso de Java SE                                        | Oracle University               | 2025      |
 
 ---
 
