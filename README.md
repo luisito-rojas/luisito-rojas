@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>
-  <img src="https://img.icons8.com/color/48/000000/mybatis.png" title="MyBatis" alt="MyBatis" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/mybatis/logo/master/logo-bird-ninja.png" title="MyBatis" alt="MyBatis" width="50" height="50"/>  
 
 </div>
 
