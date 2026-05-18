@@ -6,11 +6,18 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/Java-Backend-blue?style=for-the-badge&logo=java&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/SQL-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/QA%20Testing-JUnit-green?style=for-the-badge&logo=testing-library&logoColor=white"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Cisco_Packet_Tracer_Icon.png" alt="Packet Tracer" width="50"/>
-</div>
+
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/cisco/cisco.png"
+       title="Cisco Packet Tracer"
+       alt="Packet Tracer"
+       width="50"
+       height="50"/>
 </p>
 
 ---
