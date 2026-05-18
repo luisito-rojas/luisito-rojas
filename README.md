@@ -13,16 +13,7 @@
 
   <img src="https://img.shields.io/badge/QA%20Testing-JUnit-green?style=for-the-badge&logo=testing-library&logoColor=white"/>
 
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/cisco/cisco.png"
-       title="Cisco Packet Tracer"
-       alt="Packet Tracer"
-       width="50"
-       height="50"/>
-       <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png"
-     title="Cisco Packet Tracer"
-     alt="Packet Tracer"
-     width="50"
-     height="50"/>
+  <img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
 
 ---
