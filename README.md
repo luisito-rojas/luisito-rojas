@@ -85,6 +85,7 @@
 | ✅ Python Essentials                                       | Cisco Networking Academy (NetAcad) | 2024 |
 | ✅ Seguridad Informática Básica                            | Cisco Networking Academy        | 2024      |
 | ✅ Curso de Java SE                                        | Oracle University               | 2025      |
+| ✅ Linux Unhatched                                         | Cisco Networking Academy (NetAcad) | 2026 |
 
 ---
 
