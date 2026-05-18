@@ -18,6 +18,11 @@
        alt="Packet Tracer"
        width="50"
        height="50"/>
+       <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png"
+     title="Cisco Packet Tracer"
+     alt="Packet Tracer"
+     width="50"
+     height="50"/>
 </p>
 
 ---
