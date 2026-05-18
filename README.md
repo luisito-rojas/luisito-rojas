@@ -13,18 +13,14 @@
 
   <img src="https://img.shields.io/badge/QA%20Testing-JUnit-green?style=for-the-badge&logo=testing-library&logoColor=white"/>
 
-  <img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
 
 ---
-
-## 🚀 Tecnologías que utilizo
 
 <div align="center">
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/mybatis/logo/master/logo-bird-ninja.png" title="MyBatis" alt="MyBatis" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" title="Hibernate" alt="Hibernate" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" title="Maven" alt="Maven" width="50" height="50"/>
 
@@ -38,11 +34,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50"/>
 
   <!-- DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" title="AWS" alt="AWS" width="50" height="50"/>
+ 
 
   <!-- QA & Herramientas -->
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="50" height="50"/>
@@ -52,7 +45,7 @@
 
   <!-- Otros lenguajes -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Cisco_Packet_Tracer_Icon.png" alt="Packet Tracer" width="50"/>
+
 </div>
 
 ---
